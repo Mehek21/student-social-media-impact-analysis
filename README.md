@@ -93,12 +93,12 @@ The Power BI report is structured into **three analytical pages**:
 
 ### 🔹 Page 3: Platform Risk & Insights
 - Platform risk matrix (Addiction vs Mental Health)
-- Age group × platform heatmap
+- Insights
 - High-addiction platform contribution
 - Platform comparison table with key metrics
 
 📁 **Power BI file:**  
-`/powerbi/Student_Social_Media_Impact.pbix`
+/powerbi/Student_Social_Media_Impact.pbix
 
 📷 **Dashboard previews:**  
 `/images/`
