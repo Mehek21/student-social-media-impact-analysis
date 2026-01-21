@@ -71,8 +71,7 @@ The SQL analysis was conducted in three stages:
 - Addiction vs sleep and mental health impact
 
 📁 **Full SQL queries are available in:**  
-[SQL Files]([url](https://github.com/Mehek21/student-social-media-impact-analysis/tree/9d131e3e73045a856200f477f39dc1f94ad787b2/SQL))
-
+ [SQL Files](https://github.com/Mehek21/student-social-media-impact-analysis/tree/9d131e3e73045a856200f477f39dc1f94ad787b2/SQL))
 ---
 
 ## 📊 Power BI Dashboard
@@ -101,7 +100,7 @@ The Power BI report is structured into **three analytical pages**:
 [/powerbi/Student_Social_Media_Impact.pbix
 ]([url](https://github.com/Mehek21/student-social-media-impact-analysis/blob/9d131e3e73045a856200f477f39dc1f94ad787b2/PowerBI/Student_Social_Media_Impact.pbix))
 📷 **Dashboard previews:**  
-`[Dashboard PDF]([url](https://github.com/Mehek21/student-social-media-impact-analysis/blob/9d131e3e73045a856200f477f39dc1f94ad787b2/media%20impact.pdf))`
+[Dashboard PDF]([url](https://github.com/Mehek21/student-social-media-impact-analysis/blob/9d131e3e73045a856200f477f39dc1f94ad787b2/media%20impact.pdf))
 
 ---
 
