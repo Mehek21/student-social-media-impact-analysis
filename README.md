@@ -20,7 +20,7 @@ The goal of this project is not just to visualize data, but to derive **actionab
 ---
 
 ## 🗂 Dataset
-- **Source:** Student Social Media Addiction dataset (CSV)
+- **Source:** [Student Social Media Addiction dataset (CSV)](Data/Students Social Media Addiction.csv)
 - **Records:** 700+ students
 - **Key Variables:**
   - Age, Gender, Country, Academic Level
